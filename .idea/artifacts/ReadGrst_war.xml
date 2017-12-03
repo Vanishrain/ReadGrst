@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ReadGrst:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ReadGrst.war">
+      <element id="artifact" artifact-name="ReadGrst:war exploded" />
+    </root>
+  </artifact>
+</component>
